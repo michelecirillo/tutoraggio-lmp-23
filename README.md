@@ -5,4 +5,4 @@ Ricevimento:
 * Martedì, 14-16
 * Giovedì, 16-18
 ## Esercitazione 27/03/2023
-* Link al notebook: [![Open in swish](https://www.swi-prolog.org/icons/swipl.png)](https://swish.swi-prolog.org/p/[LMP]%201%20-%20Esercizi%20liste.swinb)
+* Link al notebook: [<img src="https://www.swi-prolog.org/icons/swipl.png" height="10px"](https://swish.swi-prolog.org/p/[LMP]%201%20-%20Esercizi%20liste.swinb)
